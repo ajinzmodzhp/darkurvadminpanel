@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "example1",
+      "username": "admin",
+      "password": "adminpass",
+      "key": "EXAMPLE-KEY-123",
+      "created": 1765118511853,
+      "expires": 1765204911853,
+      "active": true
+    }
+  ],
+  "injEnabled": true
+}
